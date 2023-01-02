@@ -10,6 +10,11 @@ div{
     float:left;
 }
 
+ img{
+    width: 50%;
+    float:left
+ }
+
 h1{
     font-weight: 1; 
     line-height: 1em;
@@ -19,5 +24,25 @@ h1{
     font-size: 170px; 
     font-family: 'New'; 
     color: #204d15
+}
+
+p{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: left;
+font-size: 16px;
+}
+
+a{
+    background-color: #62af50;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    box-shadow: 1px 1px 15px #00000088;
+    padding: 0.625em;
+    padding-left: 0.9375em;
+    padding-right: 0.9375em;
+    margin-left: 5.5em;
+    text-decoration: none;
+    line-height: 4em ;
 
 }
