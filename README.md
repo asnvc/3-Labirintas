@@ -7,7 +7,7 @@ website design project
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-
+Project: [Website](https://xzcjdvd.github.io/3-kokosas/)
 Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI/attachments/9352426?mode=media)
 
 # 🎯 Project features/goals
